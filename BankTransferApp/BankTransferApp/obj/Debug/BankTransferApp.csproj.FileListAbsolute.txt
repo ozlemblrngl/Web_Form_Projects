@@ -10,3 +10,15 @@ C:\Users\Ozlem\source\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.
 C:\Users\Ozlem\source\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.csproj.CoreCompileInputs.cache
 C:\Users\Ozlem\source\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.exe
 C:\Users\Ozlem\source\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.pdb
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\bin\Debug\BankTransferApp.exe.config
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\bin\Debug\BankTransferApp.exe
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\bin\Debug\BankTransferApp.pdb
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.csproj.AssemblyReference.cache
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.LoginForm.resources
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.DetailForm.resources
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.Properties.Resources.resources
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.RegisterForm.resources
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.csproj.GenerateResource.cache
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.csproj.CoreCompileInputs.cache
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.exe
+C:\Users\Ozlem\source\repos\Web_Form_Projects\BankTransferApp\BankTransferApp\obj\Debug\BankTransferApp.pdb

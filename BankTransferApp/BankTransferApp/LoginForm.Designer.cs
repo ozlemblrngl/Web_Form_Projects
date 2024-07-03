@@ -75,6 +75,7 @@
             this.BtnLogin.TabIndex = 3;
             this.BtnLogin.Text = "Login";
             this.BtnLogin.UseVisualStyleBackColor = true;
+            this.BtnLogin.Click += new System.EventHandler(this.BtnLogin_Click);
             // 
             // PasswordTextBox
             // 
@@ -83,6 +84,7 @@
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(197, 22);
             this.PasswordTextBox.TabIndex = 2;
+            this.PasswordTextBox.UseSystemPasswordChar = true;
             // 
             // RegisterLinkLabel
             // 
@@ -110,7 +112,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "LoginForm";
-            this.Text = "Form1";
+            this.Text = "LoginForm";
             this.ResumeLayout(false);
             this.PerformLayout();
 
